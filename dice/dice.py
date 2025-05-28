@@ -8,6 +8,8 @@
 #else #print an error message and ask again
 import random
 
+print("Welcome to the Dice Roller!")
+
 while True:
     choice = input("Do you want to roll a dice? (y/n): ").strip().lower()
     if choice == 'y':
