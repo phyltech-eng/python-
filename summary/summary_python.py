@@ -21,3 +21,4 @@
 x = 10
 y = 20
 result = round(x / y, 2)  # rounding the result to 2 decimal places
+

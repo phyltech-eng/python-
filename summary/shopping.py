@@ -7,3 +7,5 @@ print(f"You bought {quantity} {item}(s) at ${price:.2f} each. Total cost: ${tota
 #madlibs
 # Create a simple madlib game
 print(f"today I went to the {item} store and bought {quantity} {item}(s) for ${price:.2f} each. It was a great deal!")
+# Create a shopping list
+shopping_list = []''
