@@ -20,5 +20,9 @@
 #in built functions:these are functions that are built into python and can be used without importing any libraries
 x = 10
 y = 20
+# print(x + y) #addition
+# print(x - y) #subtraction
+# print(x * y) #multiplication
+# print(x / y) #division
 result = round(x / y, 2)  # rounding the result to 2 decimal places
 
