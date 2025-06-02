@@ -18,11 +18,30 @@
 # print(friends) #output: 1
 # #comparison operators:these are used to compare two values
 #in built functions:these are functions that are built into python and can be used without importing any libraries
-x = 10
-y = 20
+# x = 10
+# y = 20
 # print(x + y) #addition
 # print(x - y) #subtraction
 # print(x * y) #multiplication
 # print(x / y) #division
-result = round(x / y, 2)  # rounding the result to 2 decimal places
+# result = round(x / y, 2)  # rounding the result to 2 decimal places
 
+#typecasting:converting one data type to another
+
+# name ="phylis"
+# age = 30
+# gpa =1.9
+# student = True
+# print (f"Name: {name}, Age: {age}, GPA: {gpa}, Student: {student}")
+
+# age = str(age)  # converting age to string
+# gpa = int(gpa)  # converting gpa to integer
+# print(f"Name: {name}, Age: {age}, GPA: {gpa}, Student: {student}")
+#  round functuion
+
+# rounding a number to 2 decimal places
+
+# abs function:is used to get the absolute value of a number 
+
+# import math
+# print(math.pi)  # printing the value of pi
