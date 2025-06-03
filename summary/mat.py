@@ -17,3 +17,4 @@ a = float(input("Enter the length of side a: "))
 b = float(input("Enter the length of side b: "))
 hypotenuse = math.sqrt(a ** 2 + b ** 2)
 print(f"The length of the hypotenuse is: {round(hypotenuse, 2)} units")
+
